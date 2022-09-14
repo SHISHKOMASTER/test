@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.shishkomaster.whm.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "whm.mixin-refmap.json"
+
+}

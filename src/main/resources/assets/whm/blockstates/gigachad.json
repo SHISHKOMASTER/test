@@ -1,0 +1,20 @@
+
+{
+  "variants": {
+    "facing=north": {
+      "model": "whm:block/gigachad"
+    },
+    "facing=east": {
+      "model": "whm:block/gigachad",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "whm:block/gigachad",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "whm:block/gigachad",
+      "y": 270
+    }
+  }
+}
